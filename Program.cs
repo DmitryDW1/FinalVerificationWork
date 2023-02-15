@@ -19,7 +19,10 @@ string[] CreateArrayString()
 void ShowArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
-    Console.Write("\t" + array[i] + "\t");
+    {
+        Console.Write("\t" + array[i] + "\t");
+    }
+    
 }
 // Processing the array according to the specified parameters
 string[] CreateSortedArrayString(string[] array, int elementArrayLength)
