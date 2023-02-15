@@ -11,11 +11,6 @@ string[] CreateArrayString()
         Console.WriteLine($"Type something. This will be an array element {i+1}: ");
         
         array[i] = Console.ReadLine();
-        if (array[i] == null)
-        {
-            array[i] = "Null";
-        }
-        
     }
     Console.WriteLine();
     return array;
