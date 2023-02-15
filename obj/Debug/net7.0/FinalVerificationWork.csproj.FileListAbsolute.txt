@@ -1,0 +1,15 @@
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.exe
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.deps.json
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.runtimeconfig.json
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.dll
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\bin\Debug\net7.0\FinalVerificationWork.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.csproj.AssemblyReference.cache
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.AssemblyInfoInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.AssemblyInfo.cs
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.csproj.CoreCompileInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.dll
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\refint\FinalVerificationWork.dll
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\FinalVerificationWork.genruntimeconfig.cache
+C:\Users\DmitryDW\Documents\GeekBrains\FinalVerificationWork\obj\Debug\net7.0\ref\FinalVerificationWork.dll
